@@ -2,10 +2,11 @@
 
 <div>
   <div style="display: flex; flex-direction:column; align-items:center; justify-content:center; text-align:center;">
+  <p>
   My name is Diogo, a person passionate about technology and challenges.
 
   I am currently studying a Bachelor's degree in Computer Science and working in the area of ​​information technology as a web developer intern.
-
+  </p>
 
   <img align="center" alt="connect-with-me" src="./assets/Connect-with-me.gif">
 
