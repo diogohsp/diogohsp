@@ -1,6 +1,7 @@
 # Hello World👋
 
-<div style="display: flex; flex-direction:column; align-items:center; justify-content:center;">
+<div>
+  <div style="display: flex; flex-direction:column; align-items:center; justify-content:center; text-align:center;">
   My name is Diogo, a person passionate about technology and challenges.
 
   I am currently studying a Bachelor's degree in Computer Science and working in the area of ​​information technology as a web developer intern.
@@ -11,7 +12,8 @@
   <a href="https://www.linkedin.com/in/diogohsp/">
     <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     
-</a>
+  </a>
+  </div>
 </div>
 
 ## Technologies and Frameworks 💻
