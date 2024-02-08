@@ -7,16 +7,17 @@
   I am currently studying a Bachelor's degree in Computer Science and working in the area of ​​information technology as a web developer intern.
   </p>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-
-  <img align="center" alt="connect-with-me" style="width:13rem;" src="./assets/Connect-with-me.gif">
-
-  <a href="https://www.linkedin.com/in/diogohsp/">
+## Where can you find me?
+<div style="display: flex; column-gap:5px; ">
+<a href="https://www.linkedin.com/in/diogohsp/">
     <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     
-  </a>
+</a>
+<a href="https://www.instagram.com/diogo.hsp/">
+    <img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 </div>
-
+<hr>
 
 ## Technologies and Frameworks 💻
 
@@ -64,14 +65,3 @@ Technologies I use in my work and personal projects 👇
 
 <hr>
 
-## Where can you find me?
-<div style="display: flex; column-gap:5px; ">
-<a href="https://www.linkedin.com/in/diogohsp/">
-    <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    
-</a>
-<a href="https://www.instagram.com/diogo.hsp/">
-    <img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-</div>
-<hr>
