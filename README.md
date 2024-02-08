@@ -1,21 +1,21 @@
 # Hello World👋
 
-<div>
-  <div style="display: flex; flex-direction:column; align-items:center; justify-content:center; text-align:center;">
+
+<div style="display: flex; flex-direction:column; align-items:center; justify-content:center; text-align:center;">
   <p>
   My name is Diogo, a person passionate about technology and challenges.
 
   I am currently studying a Bachelor's degree in Computer Science and working in the area of ​​information technology as a web developer intern.
   </p>
 
-  <img align="center" alt="connect-with-me" src="./assets/Connect-with-me.gif">
+  <img align="center" alt="connect-with-me" style="width:13rem;" src="./assets/Connect-with-me.gif">
 
   <a href="https://www.linkedin.com/in/diogohsp/">
     <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     
   </a>
-  </div>
 </div>
+
 
 ## Technologies and Frameworks 💻
 
@@ -48,7 +48,7 @@ Technologies I use in my work and personal projects 👇
 ## Experience ✅
 
 <div style="display: flex; column-gap:5px;">
-   <img align="center" alt="nsc-logo" src="./assets/logo-grupo-nsc.png" style="width: 12vw">
+   <img align="center" alt="nsc-logo" src="./assets/logo-grupo-nsc.png" style="width: 10rem">
    <div style="display: flex; flex-direction:column;">
     <strong>Web Development Intern</strong>
    <p>Grupo NSC - Short Time and Hybrid (2023 - at the moment)
