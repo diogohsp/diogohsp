@@ -48,7 +48,7 @@ Technologies I use in my work and personal projects 👇
 
 ## Experience ✅
 
-<div style="display: flex; align-items:center; column-gap:5px;">
+<div style="display: flex; flex-direction:row; align-items:center; column-gap:1vw;">
 
    <img align="center" alt="nsc-logo" src="./assets/logo-grupo-nsc.png" style="width: 6rem">
    
