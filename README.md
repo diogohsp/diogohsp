@@ -50,7 +50,7 @@ Technologies I use in my work and personal projects 👇
 
 <div style="display: flex; align-items:center; column-gap:5px;">
 
-   <img align="center" alt="nsc-logo" src="./assets/logo-grupo-nsc.png" style="width: 10rem">
+   <img align="center" alt="nsc-logo" src="./assets/logo-grupo-nsc.png" style="width: 6rem">
    
    <div style="display: flex; flex-direction:column;">
    <strong>Web Development Intern</strong>
