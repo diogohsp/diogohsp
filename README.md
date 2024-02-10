@@ -1,21 +1,23 @@
 # Hello World👋
 
+<div style="text-align:center;">
 
-  <p>
-  My name is Diogo, a person passionate about technology and challenges.
+My name is Diogo, a person passionate about technology and challenges.
 
-  I am currently studying a Bachelor's degree in Computer Science and working in the area of ​​information technology as a web developer intern.
-  </p>
+I am currently studying a Bachelor's degree in Computer Science and working in the area of ​​information techno0logy as a web developer intern.
+
+</div>
 
 ## Where can you find me?
-<div style="display: flex; column-gap:5px; ">
-<a href="https://www.linkedin.com/in/diogohsp/">
-    <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    
-</a>
-<a href="https://www.instagram.com/diogo.hsp/">
-    <img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+
+<div style="display: flex; justify-content:center; column-gap:1vw; row-gap:1vw;">
+   <a href="https://www.linkedin.com/in/diogohsp/">
+      <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+      
+   </a>
+   <a href="https://www.instagram.com/diogo.hsp/">
+      <img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+   </a>
 </div>
 <hr>
 
@@ -23,7 +25,7 @@
 
 Technologies I use in my work and personal projects 👇
 
-<div style="display: flex; column-gap:5px; margin-bottom:5px">
+<div style="display: flex; column-gap:1vw; row-gap:1vw;">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
    <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -34,14 +36,11 @@ Technologies I use in my work and personal projects 👇
 
 </div>
 
-<div style="display: flex; column-gap:5px;">
-   
-</div>
 <hr>
 
 ### Operational systems
 
-<div style="display: flex; column-gap:5px;">
+<div style="display: flex; column-gap:1vw; row-gap:1vw;">
    <img align="center" alt="ubunto" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
    <img align="center" alt="windowns" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div>
@@ -49,19 +48,18 @@ Technologies I use in my work and personal projects 👇
 
 ## Experience ✅
 
-<div style="display: flex; column-gap:5px;">
+<div style="display: flex; align-items:center; column-gap:5px;">
+
    <img align="center" alt="nsc-logo" src="./assets/logo-grupo-nsc.png" style="width: 10rem">
+   
    <div style="display: flex; flex-direction:column;">
-    <strong>Web Development Intern</strong>
-   <p>Grupo NSC - Short Time and Hybrid (2023 - at the moment)
-   </p>
-   <p>
-    Technologies : JavaScript, VueJS, Html, Css, NodeJS.
-   </p>
+   <strong>Web Development Intern</strong>
+   Grupo NSC - Short Time and Hybrid (2023 - at the moment)
+   
+   Technologies : JavaScript, VueJS, Html, Css, NodeJS.
 
    </div>
    
 </div>
 
 <hr>
-
