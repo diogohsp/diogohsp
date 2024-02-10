@@ -65,7 +65,7 @@ Technologies I use in my work and personal projects 👇
 <style>
 
 img[alt=NscLogo]{
-    width:15vw;
+    width:6rem;
 }
 
 .experience__text{
