@@ -10,7 +10,7 @@ I am currently studying a Bachelor's degree in Computer Science and working in t
 
 ## Where can you find me?
 
-<div class="where-you-can-find-me" style="">
+<div style="display: flex; justify-content:center; column-gap:1vw; row-gap:1vw;">
    <a href="https://www.linkedin.com/in/diogohsp/">
       <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
       
@@ -48,35 +48,18 @@ Technologies I use in my work and personal projects 👇
 
 ## Experience ✅
 
-<div style="display: flex; flex-direction:row; align-items:center; column-gap:1vw;">
+<div style="display: flex; flex-direction:row; align-items:center; column-gap:5px;">
 
-![NscLogo](./assets/logo-grupo-nsc.png)
-
-<div class="experience__text">   
+   <img align="center" alt="nsc-logo" src="./assets/logo-grupo-nsc.png" style="width: 6rem">
+   
+   <div style="display: flex; flex-direction:column;">
    <strong>Web Development Intern</strong>
    Grupo NSC - Short Time and Hybrid (2023 - at the moment)
    
    Technologies : JavaScript, VueJS, Html, Css, NodeJS.
-</div>   
+
+   </div>
+   
 </div>
 
 <hr>
-
-<style>
-
-img[alt=NscLogo]{
-    width:6rem;
-}
-
-.experience__text{
-   display:flex;
-   flex-direction:column;
-}
-
-.where-you-can-find-me{
-   display: flex; 
-   justify-content:center; 
-   column-gap:1vw;
-    row-gap:1vw;
-}
-</style>
