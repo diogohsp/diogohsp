@@ -1,65 +1,99 @@
-# Hello World👋
+# Hey, I'm Diogo Prado 👋
 
-<div style="text-align:center;">
+<p align="center">
+  <img src="./assets/Connect-with-me.gif" alt="Diogo banner" width="220" />
+</p>
 
-My name is Diogo, a person passionate about technology and challenges.
+<p align="center">
+  <strong>Fullstack Software Engineer</strong><br/>
+  Salesforce • React • TypeScript • Node.js • Java
+</p>
 
-I am currently studying a Bachelor's degree in Computer Science and working in the area of ​​information technology as a web developer intern.
+<p align="center">
+  Building scalable products, smart integrations, and smooth user experiences.
+</p>
 
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1220,100:0f172a&height=2&section=header" alt="divider" width="80%" />
+</p>
 
-## Where can you find me?
+<p align="center">
+  <a href="https://www.linkedin.com/in/diogohsp/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/diogohsp">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:hsp.diogo@gmaill.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-<div style="display: flex; justify-content:center; column-gap:1vw; row-gap:1vw;">
-   <a href="https://www.linkedin.com/in/diogohsp/">
-      <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-      
-   </a>
-   <a href="https://www.instagram.com/diogo.hsp/">
-      <img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-   </a>
-</div>
-<hr>
+---
 
-## Technologies and Frameworks 💻
+## Snapshot
 
-Technologies I use in my work and personal projects 👇
+- Building Salesforce integrations and automation flows at BeeCloud.
+- Shipping backend services with Node.js, Java, Spring Boot, and RabbitMQ.
+- Crafting frontend experiences with React and Vue.js.
 
-<div style="display: flex; column-gap:1vw; row-gap:1vw;">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-   <img align="center" alt="sascss" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=whit">
-   <img align="center" alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-   <img align="center" alt="vuejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-   <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+---
 
-</div>
+## Tech I use
 
-<hr>
+<p>
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
+  <img src="https://img.shields.io/badge/LWC-0176D3?style=for-the-badge&logo=salesforce&logoColor=white" alt="LWC" />
+  <img src="https://img.shields.io/badge/APEX-0070D2?style=for-the-badge&logo=salesforce&logoColor=white" alt="APEX" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+</p>
 
-### Operational systems
+---
 
-<div style="display: flex; column-gap:1vw; row-gap:1vw;">
-   <img align="center" alt="ubunto" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-   <img align="center" alt="windowns" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-</div>
-<hr>
+## GitHub pulse
 
-## Experience ✅
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=diogohsp&show_icons=true&hide_border=true&bg_color=00000000&title_color=1f6feb&icon_color=ff7a00&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogohsp&layout=compact&hide_border=true&bg_color=00000000&title_color=1f6feb&text_color=c9d1d9" alt="Top languages" />
+</p>
 
-<div style="display: flex; flex-direction:row; align-items:center; column-gap:5px;">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=diogohsp&hide_border=true&background=00000000&ring=1f6feb&fire=ff7a00&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak" />
+</p>
 
-   <img align="center" alt="nsc-logo" src="./assets/logo-grupo-nsc.png" style="width: 6rem">
-   
-   <div style="display: flex; flex-direction:column;">
-   <strong>Web Development Intern</strong>
-   Grupo NSC - Short Time and Hybrid (2023 - at the moment)
-   
-   Technologies : JavaScript, VueJS, Html, Css, NodeJS.
+---
 
-   </div>
-   
-</div>
+## Experience (quick)
 
-<hr>
+<p>
+  <strong>BeeCloud Solutions</strong><br/>
+  Software Engineer · Feb 2025 - Present
+</p>
+
+<p>
+  <strong>Grupo Polgo (Varejo Inteligente)</strong><br/>
+  Fullstack Software Engineer · Jan 2024 - Feb 2025
+  <br/>
+  Intern Software Engineer · Jul 2023 - Jan 2024
+</p>
+
+---
+
+## Extras
+
+- Salesforce Certified JavaScript Developer
+- Salesforce Certified AI Associate (Agentforce)
+- B.Sc. in Computer Science (2023 - 2026, in progress)
+- Languages: Portuguese (Native) and English (B2)
