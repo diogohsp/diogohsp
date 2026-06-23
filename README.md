@@ -78,12 +78,17 @@
 ## Experience (quick)
 
 <p>
-  <strong>BeeCloud Solutions</strong><br/>
-  Software Engineer · Feb 2025 - Present
+  <strong>Globant</strong><br/>
+  Salesforce Developer · April 2026 - Present
 </p>
 
 <p>
-  <strong>Grupo Polgo (Varejo Inteligente)</strong><br/>
+  <strong>BeeCloud Solutions</strong><br/>
+  Software Engineer & Salesforce Developer · Feb 2025 - April 2026
+</p>
+
+<p>
+  <strong>Grupo Polgo</strong><br/>
   Fullstack Software Engineer · Jan 2024 - Feb 2025
   <br/>
   Intern Software Engineer · Jul 2023 - Jan 2024
